@@ -19,11 +19,11 @@ print(sal_dat.info() )
 print("\n")
 print( sal_dat.describe())
 
-
+#%%
 x_dat=sal_dat["YearsExperience"].tolist()
 y_dat=sal_dat["Salary"].tolist()
 
-
+#%%
 plt.plot(x_dat,y_dat,color="blue",marker="*",linestyle=":")
 plt.xlabel("Years Experience")
 plt.ylabel("Salary")

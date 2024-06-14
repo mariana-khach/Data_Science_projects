@@ -103,7 +103,7 @@ for input_directory in [train_lions,train_cheetahs,valid_lions,valid_cheetahs]:
 
 #%%
 #Building convolutional neural network (CNN), with three modules, each containing
-# convolution+relu+maxpooling
+# convolution+relu(Rectified Linear Unit)+maxpooling(downsampling convolved feature)
 
 #the input of the CNN is a 150*150*3 feature map, where 3 corresponds to red,green,blue 
 input_img=layers.Input(shape=(150,150,3))
@@ -345,6 +345,5 @@ plt.title('Training and validation  loss')
 
 #We can see improvement in the performance of our model
 #The training and validation accuracy increase and the loss for both decreases
-
 
 
