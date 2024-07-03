@@ -26,3 +26,5 @@ Rock mine_class_KNN awe nalyze patterns obtained by bouncing sonar signals to pr
 Sailboat_KMeans_ColorQuant we use K means clustering for color quanization of an sailboat image.
 
 Wine_quality_SVM uses different parameters of wine from chemical analysis and trying to predict if the wine is high or low quality.
+
+Fcaemask_image_class uses CNNs from keras, tensorflow  to predict whether the person in the picture wears facemask or not.
