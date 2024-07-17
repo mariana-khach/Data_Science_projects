@@ -27,4 +27,4 @@ Sailboat_KMeans_ColorQuant we use K means clustering for color quanization of an
 
 Wine_quality_SVM uses different parameters of wine from chemical analysis and trying to predict if the wine is high or low quality.
 
-Fcaemask_image_class uses CNNs from keras, tensorflow  to predict whether the person in the picture wears facemask or not.
+Fcaemask_image_class uses CNNs from keras, tensorflow  to predict whether the person in the picture wears facemask.
