@@ -1,6 +1,6 @@
 ## __Facemask image classification__
 
-In this project I have used convolutional neural networks from keras.tensorflow to classify weather the person in the image wears a facemask.
+In this project I have used convolutional neural networks from keras.tensorflow to classify whether the person in the image wears a facemask.
 I first create training and testing folders each containg two folders of people images with and without a facemask.
 I use Sequential model from tensorflow.keras with 3 convolutional modules followed by flattening layer to remove all of the dimensions except for one,
 then a dense layer of 128 neurons, followed by a random dropout of 50% of outputs and followed by a Dense layer with singe neuron 
