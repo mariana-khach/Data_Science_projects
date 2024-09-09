@@ -7,4 +7,4 @@ then a dense layer of 128 neurons, followed by a random dropout of 50% of output
 We then compile model using "binary_crossentropy" for loss.
 I then resize images to an average height and use data generators to read the pictures and store in float32 tensors.
 We then fit the model to images and define early stopping based on validation loss.
-With this model I have achieved 94% accuracy.
+With this model I have achieved 97% accuracy.
