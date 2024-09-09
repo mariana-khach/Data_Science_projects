@@ -82,6 +82,7 @@ valid_cheetahs=cheetah_dir+"/valid"
 #%%
 
 #We resize all the images to have 150 by 150 pixels, before feeding into neural net.
+#We can also ommit this step since we can resize images inside flow_from_directory()
 
 def resize_images(input_dir, output_dir, size=(150, 150)):
     if not os.path.exists(output_dir):

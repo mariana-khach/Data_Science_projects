@@ -52,7 +52,7 @@ def calculate_average_pixel_size(directory):
 
 
 
-def train_test_data_sep(imdir,class1,class2,test_fraction=0.3):
+def train_test_data_sep(class1,class2,imdir,bigdir_name="train",smalldir_name="valid",test_fraction=0.3):
     
 
 
@@ -61,8 +61,8 @@ def train_test_data_sep(imdir,class1,class2,test_fraction=0.3):
         data_path=imdir+"/"+class_nm
         #data_path = "images/Lions"
         # path to destination folders
-        train_folder =imdir+"/train/"+class_nm
-        valid_folder = imdir+"/valid/"+class_nm
+        train_folder =imdir+"/"+bigdir_name+"/"+class_nm
+        valid_folder = imdir+"/"+smalldir_name+"/"+class_nm
 
 
 
