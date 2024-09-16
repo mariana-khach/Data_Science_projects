@@ -31,6 +31,6 @@ Fcaemask_image_class uses CNNs from keras, tensorflow  to predict whether the pe
 
 DisasterTweets_NLP is a kaggle competition that uses Natural Language processig  to predict which Tweets are about real disasters and which one’s aren’t. We have used both ML and DL models for this.
 
-Store_Sales_timeseries uses Time Series Forecasting to predict sales for different products for Favorita stores in Ecuador using linear regression and DL LSTMs.
+Store_Sales_timeseries  is a kaggle competition that uses Time Series Forecasting to predict sales for different products for Favorita stores in Ecuador using linear regression and DL LSTMs.
 
-Titanik  project use tree methods to predict which Titanik passenger survived.
+Titanik  is a kaggle competition that use tree methods to predict which Titanik passenger survived.
