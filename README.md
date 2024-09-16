@@ -28,3 +28,9 @@ Sailboat_KMeans_ColorQuant we use K means clustering for color quanization of an
 Wine_quality_SVM uses different parameters of wine from chemical analysis and trying to predict if the wine is high or low quality.
 
 Fcaemask_image_class uses CNNs from keras, tensorflow  to predict whether the person in the picture wears facemask.
+
+DisasterTweets_NLP is a kaggle competition that uses Natural Language processig  to predict which Tweets are about real disasters and which one’s aren’t. We have used both ML and DL models for this.
+
+Store_Sales_timeseries uses Time Series Forecasting to predict sales for different products for Favorita stores in Ecuador using linear regression and DL LSTMs.
+
+Titanik  project use tree methods to predict which Titanik passenger survived.
