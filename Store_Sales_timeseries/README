@@ -1,4 +1,4 @@
-In this project we want to do timeseries prediction for sales of the thousands of products sold at Favorita stores located in Ecuador. The data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers.
+### In this project we want to do timeseries prediction for sales of the thousands of products sold at Favorita stores located in Ecuador. The data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers.
 The training data, comprising time series of features store_nbr, family, and onpromotion as well as the target sales.
 - store_nbr identifies the store at which the products are sold.
 - family identifies the type of product sold.
