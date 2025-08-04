@@ -1,0 +1,56 @@
+label,id,sentence
+0,0,Exclusive VIP access: Pre-sale tickets for Maroon 5 concert now available. Reply 'MAROON' to purchase before general sales. Limited time offer!
+1,1,"Operative Echo, mission abort. Compromised asset detected. Return to extraction point Alpha immediately. Use code phrase 'The eagle has landed' to signal safe arrival."
+1,2,"Sis, mum asking if you're coming for dinner. She's making your fav curry chicken. Dad will be home early too. It'd be great if you could make it. Let us know by 6pm?"
+1,3,"Hi Lisa, I've reviewed your proposal for the AI ethics committee. It's impressive. Can we schedule a meeting next week to discuss implementation strategies? Your insights would be valuable."
+1,4,LinkedIn: Jon Smith has endorsed you for 'Project Management'. View your updated profile and consider returning the endorsement.
+1,5,"Hi, this is from SP Group. Your utilities bill is ready. Total amount: $87.50. Due date: 25th July. Pay online to avoid queues."
+1,6,"Eh, remember to bring your laptop charger for the meeting at One Raffles Place later. We might be there for a while. Also, can you bring an extra notepad? I forgot mine at home. See you there!"
+0,7,URGENT: Your SingPass has been locked. Verify your identity now to unlock. Reply 'VERIFY' for instructions. Failure to respond may result in account suspension.
+1,8,"Eh, still got the mahjong session at your place this weekend? What time ah? Should I bring any snacks? Also, can you remind me of your block number? I always get lost in your estate!"
+0,9,Database server unresponsive. Failover initiated. Urgent: need senior DB admin to assess root cause. Estimated downtime: 2 hours. Please log in to incident management system.
+0,10,URGENT: Load balancer failure detected. Auto-scaling initiated but manual intervention required. SSH to 192.168.1.100 and run debug script /root/lb_recovery.sh immediately.
+1,11,"Your package is out for delivery. Expect it between 2-5pm. If you're not home, we'll leave it with your neighbor. Track your package using the following code: SG123456789. Have a great day!"
+1,12,Remember to bring your NS55 credits card for dinner tonight. We can use it at the restaurant.
+0,13,"ALERT: Your Singpass has been used for a new application. If this wasn't you, please call 6543 2109 immediately to secure your account."
+0,14,"Encrypted coordinates for secure document exchange: 35ø41'22.2N 139ø41'30.1""E. Passphrase: 'The clock strikes at dawn'. Confirm receipt and ETA."""
+0,15,"Exclusive offer 4 SingTel users! Get 50GB data FREE! Call customer service to activate. Limited slots available. First come, first served. Don't miss out on this amazing deal!"
+0,16,Critical security vulnerability discovered in your network firewall. Immediate patching required. Login to admin console and apply patch FB-29876 ASAP. Call 555-7890 for assistance.
+0,17,"ALERT: Unusual login attempt detected on your iCloud account. To secure your account, please verify your identity now. Reply 'VERIFY' for instructions."
+1,18,Reminder: Town Council fees are due next week. Pay online or at any AXS machine to avoid late charges.
+0,19,"ALERT: Unusual login attempt detected. To secure your account, please verify your identity. This is a precautionary measure. Respond 'VERIFY' to receive a security code. Thank you for helping us keep your account safe."
+0,20,Your credit score has improved! You're now eligible for a lower interest rate on your home loan. Call 9876 5432 to learn more about this offer.
+0,21,"Congratulations! You've been selected for a free staycation at Marina Bay Sands. To claim, call 8765 4321 within 48 hours. Don't miss this exclusive offer!"
+1,22,"Uncle, remember to take your medication after lunch. I've arranged the pills in the blue box. Call me if you need any help."
+1,23,Reminder: Your HDB appointment is tomorrow at 10am. Bring all the documents we discussed. Don't forget your NRIC!
+1,24,Reminder: Your dentist appointment is tomorrow at 11am at Orchard Medical Centre. Please arrive 10 minutes early.
+0,25,"WARNING: Your account security may be at risk. To protect your assets, please verify your identity. This is a precautionary measure due to recent cyber threats. Reply 'SECURE' to receive verification instructions."
+1,26,"Eh, remember to return my Tupperware ah. You took it home after the potluck last month."
+0,27,ALERT: Unusual trading pattern detected in your account. Potential algorithmic trading violation. Immediate review required. Contact trading compliance officer at ext. 5678.
+1,28,"Eh, remember to return the books to the library. They're due tomorrow. Don't want to pay fine again!"
+0,29,Limited time offer: 70% off gym membership at Fitness First. First 50 respondents get a free personal training session. Reply 'FIT' to claim.
+1,30,"Can you help me buy 4D? My numbers are 5678. $5 each. I'll paynow you later. If the queue is too long, don't worry about it. Let me know if you managed to buy. Thanks!"
+0,31,"URGENT: Your bank account shows a large withdrawal. If this wasn't you, please call our fraud department immediately at 6789 0123."
+0,32,"ALERT: Your Netflix account has been accessed from a new device. If this wasn't you, reply 'SECURE' to reset your password immediately."
+0,33,"We've noticed you've been trying to resolve an issue with your router. For a more detailed walkthrough, please call our technical support at 1-800-555-0199. We're here to help 24/7."
+0,34,"Your personal information has been used for a credit card application. If this wasn't you, please call our fraud department at 6543 2109 immediately."
+1,35,"Bro, can help me buy 4D? My numbers are 1234. $10 each. I'll paynow you."
+0,36,"Congratulations! You've been selected for a free staycation. To claim, call 8765 4321. Offer valid for 24 hours only. Don't miss this chance for a luxury getaway. Terms and conditions apply."
+0,37,ALERT: Significant market volatility affecting your portfolio. Multiple stop-loss orders triggered. Log in now to review and adjust your positions. Market closing in 10 minutes.
+0,38,Congratulations! You've been selected for a free health screening worth $500. Limited slots available. Call 8765 4321 to book your appointment.
+0,39,BREAKING: Economic alert! Protect your savings now. Our financial advisors can help. Call 8765 4321 for a free consultation. Learn about safe investment options. Don't let inflation eat away your hard-earned money.
+1,40,"Team, our proposal for the government contract is due Friday. Need everyone's sections by EOD Wednesday for final review. This is a high-priority project. Let me know if you need any resources."
+1,41,Remember to bring your passport for the staycation at MBS this weekend. Check-in is at 3pm. I've booked us a table at CUT for dinner at 8pm. Don't forget to bring swim gear if you want to use the infinity pool!
+1,42,"Eh bro, can help me book badminton court at Pasir Ris Sports Centre for next Tuesday? 7-9pm. If that timing not available, try 8-10pm. Let me know the cost and I'll transfer you. Thanks man!"
+0,43,Attention: Unusual options activity detected in your trading account. Potential breach of insider trading regulations. Immediate review required. Contact compliance: 555-0123.
+0,44,"ALERT: Your account has been temporarily suspended due to suspicious activity. To reactivate, please verify your identity. This is for your protection. Reply 'ACTIVATE' to receive instructions on how to verify your account."
+0,45,"Dear customer, your singpass needs immediate verification. Prevent account lock: verify-singpass.com"
+0,46,"URGENT: Your account will be deactivated. To prevent this, please update your information. This is due to recent security upgrades. Prompt action is required. Reply 'INFO' for instructions on how to update."
+1,47,"Patient update: Emily R. (ID: 23456) post-thyroidectomy: Calcium levels dropping (7.5 mg/dL). Started on IV calcium gluconate. Monitoring for signs of hypocalcemia. Your orders, Dr. Lee?"
+1,48,Reminder: Your dentist appointment is tomorrow at 11am at Orchard Medical Centre. Please arrive 10 minutes early to fill out forms. Bring your medical card and a list of any medications you're taking. Call us if you need to reschedule.
+1,49,"Lab results for patient ID 78901: Elevated white blood cell count (15,000/?L). Recommend follow-up tests. Please advise on next steps."
+0,50,Limited time offer: Get a free upgrade to business class on your next SIA flight. Book within 24 hours to enjoy this exclusive promotion.
+1,51,Your secure access code for the vault is 7392. Valid for 10 minutes only. Do not share this code with anyone. Destroy this message after use.
+1,52,Your package from Lazada is out for delivery. Track here: lzd-track.com
+0,53,ALERT: Unusual options activity detected in your trading account. Potential breach of SEC regulations. Immediate review required. Contact compliance officer at 555-7890 within the hour.
+1,54,"Meeting Mr. Tan for lunch at Food Republic Wisma Atria. 1pm okay? He wants to discuss the new project proposal. Bring any relevant documents you have. If you're running late, give me a call and I'll order for you."

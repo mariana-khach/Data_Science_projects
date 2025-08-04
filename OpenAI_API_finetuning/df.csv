@@ -1,0 +1,227 @@
+label,id,sentence
+0,0,Unusual trading pattern detected in your portfolio. Potential insider trading alert. Please contact compliance officer immediately at ext. 5678 to review recent transactions.
+0,1,Alert: Unusual activity on your OCBC card. Verify transactions now: ocbc-sg-secure.com
+0,2,ALERT: Your Singtel line will be terminated due to non-payment. Settle outstanding bills within 24 hours to avoid disruption. Call 6789 0123 for assistance.
+0,3,"Congratulations! You've won a prize in our lucky draw. To claim, please provide your full name, NRIC, and contact details. Our representative will call you within 24 hours with further instructions. This is a limited time offer."
+1,4,Reminder: Your yoga class at True Fitness Novena is today at 7pm. Don't forget to bring your mat!
+0,5,"Congratulations! You've won in a lucky draw. Prize value: $10,000. To claim, please provide your bank details for the transfer. This is a limited time offer. Our representative will contact you shortly with more information."
+0,6,"WARNING: Your account will be terminated in 24 hours. To prevent this, please verify your details. This is due to suspicious activity detected. Prompt action is required. Thank you for your cooperation."
+1,7,"Hi Alex, I've reviewed your code for the new API. Great work overall, but I've noticed a potential security vulnerability. Can we hop on a quick call to discuss mitigation strategies?"
+0,8,Fantastic deal! 70% off at Ion Orchard shops TODAY ONLY! Show this SMS at any store. Don't miss out!
+1,9,"Hi Alex, I've reviewed your CV and I'm impressed with your experience in AI development. Would you be open to discussing a potential role at our firm? Let's connect on a call."
+1,10,"Hi, this is from SP Group. Your utilities bill is ready. Total amount due is $87.60. Payment is due by the 20th. You can view and pay online at spgroup.com.sg. Let us know if you have any questions about your bill."
+1,11,"Hi Sarah, I've reviewed your proposal for the Johnson account. Can we schedule a call tomorrow at 2 PM to discuss some potential improvements? Let me know if that works for you."
+1,12,"Hi Aunty, reminder for your doctor's appt tmrw at Tan Tock Seng Hospital. 2:30pm, Dr. Lim. Don't forget to bring your medical card."
+1,13,"Dr. Garcia, patient in ICU bed 3 showing signs of acute renal failure. Creatinine risen to 3.5 mg/dL. Urine output < 30 mL/hr. Started on IV fluids. Awaiting your further orders."
+0,14,"Your credit card shows suspicious transactions. To prevent fraud, please confirm recent purchases. Reply 'YES' to receive a verification call."
+1,15,"Meeting shifted to Starbucks at Raffles City. 3pm still okay? If you're running late, let me know and I'll order your usual. We need to finalize the project timeline today. Bring any relevant documents you have."
+1,16,"Meeting shifted to 3pm at Suntec City Tower 3. Can you make it? If not, we can reschedule. Let me know ASAP so I can inform the team. We'll be discussing the new project timeline."
+1,17,Hey Zoe! Dinner at Lau Pa Sat tonight? They've got amazing satay. Let me know by 7pm!
+1,18,"Agent 447, rendezvous point changed to Charlie-3. New passphrase: 'The eagle flies at midnight'. Confirm receipt with countersign."
+0,19,"Your Grab account password has been changed. If this wasn't you, please reset your password immediately. Reply 'RESET' for instructions."
+0,20,"Congratulations! You've been pre-approved for a credit card with $10,000 limit. Reply 'ACCEPT' to receive your card within 3 working days."
+0,21,Error code XB-354 detected on server cluster 7. Backup systems engaged. Urgent attention required. Please login to the admin panel for full diagnostic report.
+0,22,"Congratulations! You've won 2 tickets to Universal Studios Singapore. To claim, provide your name and IC number. Offer expires in 24 hours."
+1,23,"Agent 007, mission update: Target has changed location. New coordinates: 51¡30'26.5N 0¡07'39.6""W. Await further instructions at the designated safe house."""
+1,24,"Hey, don't forget to bring your swimsuit for the beach outing this weekend. We're meeting at East Coast Park at 10am."
+0,25,URGENT: Significant market volatility detected. Your stop-loss orders may execute. Log in now to review and adjust your positions if necessary. Market closes in 30 minutes.
+1,26,Remember to bring your laptop for the meeting at Marina Bay Financial Centre tomorrow. We need to present the new project.
+0,27,"ALERT: Your credit card has been blocked due to suspicious activity. To unblock, please verify recent transactions. Call 6543 2109 now."
+1,28,"Hey Siti, can you bring the project files to the meeting at Raffles Place? Thanks!"
+0,29,"We've noticed unusual spending patterns on your credit card. To prevent fraud, please verify recent transactions. Call our secure line: 1-800-555-6789 within the next hour."
+0,30,URGENT: Database replication lag exceeding critical threshold. Master-slave synchronization failing. Login to DB admin console and initiate emergency recovery procedure SYNC-7 now.
+1,31,"Sarah, can u pick up milk on ur way home? We're out. Also, grab some bread if you can. The bakery near your office has great sourdough. Oh, and don't forget to get cat food for Whiskers. Thanks a bunch!"
+0,32,CONGRATS! U've won a luxry watch worth $5000! Claim NOW. Limited time offer! Call 9876 5432 for details. Don't miss this chance to own a premium timepiece. Act fast before the offer expires!
+0,33,"We've detected multiple unauthorized access attempts to your cloud infrastructure. For security, we've temporarily restricted admin access. Call 1-877-555-3456 to verify and restore privileges."
+1,34,"Hey, I'm at Jurong East MRT. Where are you? Movie starts in 30 mins."
+0,35,"URGENT: Your DBS account has been temporarily suspended. To reactivate, please verify your identity. Call 6789 0123 immediately."
+0,36,"Your wire transfer of $50,000 to account ending in 4567 is pending. To authorize, please confirm by replying 'AUTHORIZE' followed by your security PIN."
+0,37,"Amazing opportunity! Earn extra income from home. Flexible hours, high earning potential. Reply 'INFO' to learn more about this exciting venture."
+1,38,"Hey, I left my laptop charger at your place yesterday. Can I come pick it up after work?"
+1,39,"Dr. Chen, patient in Room 501 showing signs of anaphylaxis. BP dropping, stridor present. Epi administered. STAT ABG ordered. Please advise on further management."
+0,40,Limited time offer: Get a free iPhone 13 when you sign up for our 2-year mobile plan. Reply 'IPHONE' for more details. Offer ends tomorrow!
+0,41,Your CPF nomination will expire soon. Update now to ensure your loved ones are protected. Reply 'UPDATE' for more information.
+1,42,"Hi, this is from LTA. Your road tax will expire next month. Renew online at onemotoring.com.sg. Remember to have your insurance updated before renewal. Let us know if you need any assistance with the process."
+0,43,"We've detected potential malware on your corporate device. To prevent data loss, please bring your laptop to IT security (Room 302) immediately for a full system scan and cleanup."
+0,44,"ALERT: Your account has been compromised. Reset your password now. Click 'Forgot Password' on the login page. Follow the prompts to create a new, secure password. Contact support if you need assistance."
+1,45,"Encrypted coordinates for package retrieval: 40¡42'45.9N 74¡00'21.5""W. Passphrase: 'The red fox jumps'. Confirm receipt and ETA."""
+0,46,"We've detected unusual activity on your network. Multiple failed login attempts from unrecognized IP addresses. For immediate assistance, please call our cybersecurity team at 1-800-555-4321."
+0,47,"We've detected unusual activity on your account. Please verify recent transactions by logging into our secure portal. If you need assistance, reply 'HELP' for immediate support."
+1,48,"Hi, this is from Fairprice. Your online grocery order will be delivered between 2-4pm today. Please ensure someone is home to receive it."
+1,49,"Eh bro, can help me tape the soccer match tonight? I've got OT at work. Thanks ah!"
+0,50,ALERT: Unusual options activity detected in your trading account. Potential violation of insider trading regulations. Immediate review required. Contact compliance at 555-3456.
+0,51,"Your stock transfer of 1000 shares of APPL has been initiated. To confirm this transaction, please enter the OTP sent to your registered email within the next 5 minutes."
+1,52,"Dr. Martinez, patient John D. (ID: 89012) post-op day 2: Fever spike to 39.5¡C, WBC 18,000. Blood cultures sent. Started on broad-spectrum antibiotics. Your thoughts on management?"
+0,53,"URGENT: Your account needs verification. To prevent suspension, please confirm your details. This is a standard security check. Respond 'YES' to receive verification instructions. Thank you for your prompt attention."
+0,54,"Your mobile number will be deactivated in 24 hours due to inactivity. To keep your number, reply 'KEEP' and receive special retention offers."
+1,55,"Hi, this is from LTA. ERP rates will increase from next month. For more details, visit our website www.lta.gov.sg"
+0,56,"Congratulations! You've won a $1000 shopping spree at Takashimaya. To claim your prize, reply with your full name and IC number within 24 hours."
+1,57,"Eh, remember to bring your NS55 credits card for dinner at Lau Pa Sat tonight."
+0,58,"Your Grab account shows suspicious login attempts. To secure your account, please change your password now. Reply 'CHANGE' for instructions."
+1,59,Meeting shifted to 3pm at Starbucks Raffles City. Can you make it? Let me know ASAP.
+1,60,Hey Zoe! Dinner at Lau Pa Sat tonight? They've got amazing satay.
+1,61,"Hi, this is from LTA. ERP rates will increase from next month. For more details, visit our website www.lta.gov.sg"
+0,62,"Our advanced AI has detected potential issues with your recent cloud deployment. For a detailed analysis and resolution steps, please schedule a call with our senior cloud architect."
+0,63,URGENT: Critical failure in primary and backup power systems detected. Data center running on UPS. Estimated 30 minutes before total shutdown. Login to power management system and initiate emergency protocols.
+0,64,"URGENT: Your DBS account shows unusual activity. To prevent fraud, please verify recent transactions. Call 6789 0123 now."
+0,65,Congratulations! You've been selected for a free staycation at Marina Bay Sands. Claim now: mbs-offer.com
+1,66,EZ-Link card balance low. Top up at any MRT station or 7-11.
+1,67,"Hi, this is from Town Council. Water supply will be disrupted from 10pm to 6am for maintenance. Sorry for the inconvenience."
+0,68,"URGENT: Your bank account shows unusual activity. To secure your account, please verify recent transactions. Call 6789 0123 immediately."
+1,69,Meeting Mr. Tan at Lau Pa Sat for lunch. Join us if you're free. We'll be at the chicken rice stall.
+0,70,ALERT: Your mobile plan will expire in 24 hours. Renew now to avoid service interruption. Special offer: 50% more data if you renew today!
+0,71,Time-sensitive: Your parcel is held at customs. Pay $50 fee now to release: sg-customs.net/release
+0,72,"Exclusive offer: Get free $100 voucher. Limited availability. First come, first served. To claim, reply with your full name and mobile number. Our team will contact you with redemption details. Don't miss out on this amazing deal!"
+1,73,"Auntie, can help me buy some chicken rice from the hawker centre? I'll be home late tonight. Thanks ah!"
+0,74,Amazing investment opportunity! Guaranteed 20% returns in 6 months. Minimum investment $5000. Call 9876 5432 for more information.
+0,75,Exclusive offer: 50% off all treatments at Spa Botanica. Valid for this weekend only. Quote 'RELAX50' when booking to enjoy this offer.
+0,76,"URGENT: Your line will be terminated due to unpaid bills. To prevent service interruption, please make immediate payment. If you've already paid, please disregard this message. Contact our support team if you need assistance."
+0,77,"Congratulations! You've won a $500 shopping spree at Mustafa Centre. To claim your prize, call 8765 4321 within 24 hours. Don't miss out!"
+1,78,"Eh bro, can you pick up my dry cleaning on your way home? The receipt is in the drawer. Thanks ah!"
+0,79,Your 2FA is expiring. Update now to maintain access. This is a routine security measure. Failure to update may result in account lockout. The process takes only a few minutes. Thank you for keeping your account secure.
+0,80,"We've noticed unusual spending patterns on your corporate card. To prevent fraud, please verify recent transactions. Call our secure line: 1-800-555-5678 within the next 30 minutes."
+1,81,"Patient update: John D. (ID: 34567) post-angioplasty: No complications. Cardiac enzymes normal. Recommend starting on dual antiplatelet therapy. Your opinion, Dr. Martinez?"
+1,82,"Auntie, can you help me ask Uncle if he can pick me up from Changi Airport on Sunday? My flight arrives at 8pm."
+0,83,"We've noticed multiple failed login attempts on your account. For your security, we've temporarily locked your account. Call 1-888-555-1234 to verify your identity and unlock."
+1,84,Team leads: Emergency strategy meeting called for 3 PM today. Recent market shifts require immediate pivot. Prepare 2-minute summaries of how this affects your departments. Zoom link to follow.
+0,85,Your Singpass password will expire in 3 days. Update now to maintain access to government services. Reply 'UPDATE' for secure password reset link.
+0,86,"We've detected a potential data breach in your account. For your security, we've temporarily suspended access. Call our secure line at 1-877-555-8765 to verify your identity and restore access."
+0,87,Amazing weight loss results! Lose 10kg in 2 weeks with our new pill. Order now: slim-sg.com
+1,88,Can you pick up some chicken rice from Maxwell Food Centre on your way home? Thanks!
+0,89,"We've detected a potential security breach on your home network. For immediate assistance and to secure your devices, please call our premium support line at 1-877-555-9876."
+1,90,"Can you pick up my parcel from the PopStation at Tampines MRT? I'll text you the code. It should be a small box. If you can't make it, let me know and I'll try to go myself after work. Thanks!"
+1,91,"Auntie, can you help me ask Uncle if he's free to fix our leaky tap this weekend?"
+1,92,"Hi, this is Dr. Tan from Raffles Medical. Your test results are ready. Please call to schedule a follow-up. It's important we discuss the results in person. Our clinic is open from 9am to 5pm on weekdays."
+0,93,URGENT: Your bank account has been locked. Verify now: sg-dbs-verify.com
+1,94,Can you pick up my parcel from the PopStation at Tampines MRT? I'll text you the code.
+0,95,"URGENT: Your ez-link card has been blocked due to suspicious transactions. To unblock, please verify your identity. Reply 'VERIFY' for instructions."
+0,96,CONGRATS! U've won a luxry watch worth $5000! Claim NOW at bit.ly/claimprize. Limited time offer!
+0,97,CRITICAL: Zero-day vulnerability discovered in our main application server. Patch available. Immediate deployment required. Login to admin console and apply patch ZD-98765 now.
+1,98,"Auntie, can you help me ask Uncle if he's free to fix our aircon this weekend? It's been making strange noises. If he's busy, do you know any other reliable technicians? The heat is getting unbearable!"
+0,99,URGENT: Abnormal trading volume detected in your managed fund. Potential market manipulation alert. Immediate review required. Contact SEC compliance team at 555-8901 within 30 minutes.
+0,100,Fantastic deal! 70% off at Ion Orchard shops TODAY ONLY! Show this SMS at any store. Limited stock available. First 100 customers get an additional gift. Hurry before everything's gone!
+1,101,"Team, critical bug discovered in our latest release. All hands on deck for emergency patch. Code freeze initiated. Update your branches and start debugging ASAP. Status update meeting in 1 hour."
+1,102,"Sarah, can u pick up milk on ur way home? We're out. Thx!"
+1,103,"Meeting Mr. Lim at Tanjong Pagar MRT at 6pm. Join us for dinner after? We're thinking of trying that new Korean BBQ place. Let me know if you can make it. If not, we can plan for another day."
+1,104,"Eh bro, football game cancelled. Coach says field flooded from the rain. Maybe we can go futsal at Kallang instead?"
+0,105,Exclusive offer: Get 50% off cinema tickets this week. Limited seats available. Book now to avoid disappointment. Offer valid for all movies except premieres. Show this SMS at the ticket counter to redeem.
+1,106,"Eh, still on for the BBQ at East Coast Park this weekend? What should I bring? I can get some drinks and snacks. Also, do we need to book a pit or are we just finding a spot? Let me know!"
+1,107,Meeting Mr. Lim at Tanjong Pagar MRT at 6pm. Join us for dinner after?
+1,108,"Dr. Thompson, lab results for patient Sarah L. (ID: 78901) show critically low potassium levels (2.5 mEq/L). IV replacement started. Please advise on further management."
+1,109,Encryption key for Operation Thunderbolt has been updated. New key: TBj7#mP9$qR. Effective immediately. Destroy all previous keys.
+1,110,"Eh bro, you left your wallet at my place yesterday. I'll pass to you at work tmr. It's in my desk drawer for safekeeping. Don't worry, everything's intact. See you at the office!"
+1,111,"Eh bro, can help me buy 4D? My numbers are 1234 and 5678. $5 each. I'll paynow you."
+0,112,"Agent 772, covert extraction required. Target location: 48¡51'24.0N 2¡21'03.0""E. Use code phrase 'The package has been delivered' to signal readiness."""
+0,113,"Congrats! You've won a free 1-year gym membership. To claim, please provide your full name and contact number. Our fitness consultant will call you to arrange your first session. This offer is valid for 48 hours only."
+0,114,Your CPF statement is ready for viewing. Important changes to your account. Log in now to review. Reply 'VIEW' for secure login link.
+0,115,Exclusive offer: Get 70% off on all items at Charles & Keith. Valid only for today. Show this SMS at any outlet to redeem.
+1,116,"Can you pick up some chicken rice from Maxwell Food Centre on your way home? Get extra chili sauce if possible. Oh, and if the fruit stall is still open, can you grab some mangoes? Thanks a bunch!"
+0,117,"Amazing weight loss results! Lose 5kg in 1 week with our new tea. 100% natural ingredients. No side effects. To order, reply with your name and address. Our health consultant will contact you."
+1,118,"Team, our pitch for the Anderson account is tomorrow. Need everyone's slides by 9 PM for final review. Remember, this could be our biggest client yet. Let's nail this!"
+1,119,"Hi, this is from NParks. There will be tree pruning in your area tomorrow from 9am to 5pm. Please park your vehicles away from the trees."
+0,120,"Your NRIC has been used for a loan application. If this wasn't you, please report to the police immediately. Call 999 for assistance."
+1,121,"Hi, this is Dr. Tan from Raffles Medical. Your test results are ready. Please call to schedule a follow-up."
+1,122,Reminder: Your yoga class at True Fitness Suntec City is today at 7pm. Don't forget to bring your mat and water bottle!
+1,123,"Eh bro, match at Kallang Wave Mall later? 8pm can? Bring your boots."
+1,124,"Dr. Chen, patient in Room 305 showing signs of tachycardia. BP 150/90, pulse 120. O2 sat 94%. Awaiting your instructions."
+0,125,URGENT: Server room temperature exceeding critical levels. Cooling system failure detected. Immediate action required. Login to HVAC control system and initiate emergency cooling protocol.
+0,126,"Your personal information has been used for a credit card application. If this wasn't you, please call our fraud department immediately at 6789 0123. This is a serious matter that requires your immediate attention."
+0,127,Critical error in production database. Transaction logs corrupted. Immediate action required. Login to DB admin panel and initiate recovery protocol Delta-7 now.
+0,128,Your SingTel bill is overdue. Pay now to avoid service interruption: pay.singtel-sg.com
+1,129,"Oi Jason! Still on for laksa at Katong? I'll be bit late, stuck in traffic on PIE. Save me a seat! Order the usual for me if you get there first. I should be there in about 15 minutes."
+1,130,Reminder: Parent-teacher meeting at Raffles Girls' School tomorrow at 4pm. Please arrive 10 minutes early to sign in. Bring your child's report card. The meeting will last approximately 30 minutes. Parking is available at the school.
+1,131,"Sis, mum asking if you're coming for dinner. She's making your fav curry chicken."
+0,132,Exclusive offer: Buy 1 Get 1 Free on all items at Uniqlo Orchard. Valid today only. Show this SMS at checkout to redeem.
+0,133,"URGENT: Your nomination will be voided if not updated. This affects the distribution of your assets. To update, please provide your full name and NRIC. Our agent will contact you with further instructions."
+1,134,"Hey, I'm at Changi Airport T2. Which terminal are you at? Flight delayed? I've been waiting for an hour. The arrival board doesn't show any updates. Should I go to your terminal instead?"
+1,135,"Hi James, I noticed your recent publication on quantum computing. I'm leading a similar project at Tech Innovations Inc. Would you be interested in collaborating? Let's discuss."
+1,136,"Hi, this is from Fairprice. Your online grocery order will be delivered between 2-4pm today. Please ensure someone is home to receive it. If you need to reschedule, please call us before 12pm. Thank you for shopping with us!"
+0,137,Your parcel is held at customs. A small fee is required for clearance. Reply 'RELEASE' for payment instructions to avoid return shipment.
+1,138,"Operative Delta, mission parameters changed. New objective: data retrieval from target system. Use exploit code: X7B-9Y2-M4K. Confirm receipt of new instructions."
+1,139,Remember to bring your NS55 credits card for dinner. We can use it at the hawker centre. I heard the chicken rice stall now accepts it too. Maybe we can try that new dessert place after?
+0,140,Critical firmware update available for your industrial control systems. This patch addresses severe vulnerabilities. Schedule immediate update by replying 'UPDATEICS'.
+1,141,Can you grab some kaya toast and kopi from Ya Kun for breakfast? I'll pay you back. Get an extra set if Uncle Tan is there too. He usually comes in early. Thanks a lot!
+0,142,Exclusive VIP access: Pre-sale tickets for Jay Chou's concert now available. Limited time offer. Reply 'TICKETS' to purchase before general sales.
+1,143,Reminder: Parent-teacher meeting tomorrow at 4pm. Please be punctual. Parking available at the school.
+1,144,Reminder: Your car is due for servicing next week. Call 6543 2109 to schedule an appointment. Don't forget to bring your service booklet.
+0,145,Critical firmware update required for your network switches. Addresses severe security vulnerability. Schedule immediate update by replying 'UPDATESWITCH-URGENT'.
+0,146,URGENT: Abnormal trading volume detected in your managed fund. Potential market manipulation alert. Immediate review required. Contact SEC compliance officer at ext. 4567.
+0,147,"Dear customer, your account needs verification. Please respond with your OTP to complete the process. This is a routine security check. Failure to verify may result in temporary account suspension. Thank you for your cooperation."
+0,148,Encrypted message: Qx9#pLm$7Nz. Decryption key: FALCON. Rendezvous at 2200 hours. Destroy after reading.
+0,149,NOTICE: Abnormal algorithmic trading pattern detected in your account. Potential violation of exchange rules. Immediate review required. Contact trading compliance at 555-6789 now.
+0,150,URGENT: Your account needs attention. Please verify your details to prevent suspension. This is a standard security procedure. Respond 'YES' to receive verification instructions. Thank you for your prompt action.
+1,151,Remember to bring your passport for the staycation at MBS this weekend. Check-in is at 3pm.
+0,152,Amazing deals on holidays! Book now and get 70% off. Limited packages available. Don't miss this chance for a dream vacation. Call our travel experts at 9876 5432 for more information. Terms and conditions apply.
+1,153,"Team leads: Quarterly strategy meeting rescheduled to Thursday, 10 AM. Please prepare 5-minute updates on your department's KPIs. Zoom link to follow."
+1,154,"Auntie, can you buy some oranges from the market? The ones from last week were very sweet."
+0,155,"Amazing investment opportunity! High returns possible. Low risk, high reward. Our financial experts can guide you. Call 8765 4321 for a free consultation. Limited spots available. Don't miss this chance to grow your wealth."
+1,156,Reminder: Pay town council fees by end of month to avoid late charges. You can pay online or at any AXS machine. Current balance is $65.50. Let me know if you need help with the payment process.
+0,157,"ALERT: Your credit score has changed. Important information regarding your financial status. To receive a free credit report, reply with your full name and NRIC. This offer is valid for 24 hours only."
+1,158,"Patient in ICU bed 7 showing signs of sepsis. Blood cultures sent to lab. Started on broad-spectrum antibiotics. Awaiting your further orders, Dr. Johnson."
+1,159,Encrypted message follows: Bx7#mKp$3Lq. Decryption key: RAVEN. Mission briefing at 0600. Destroy after reading.
+1,160,"Hi Aunty, reminder for your doctor's appt tmrw at Tan Tock Seng Hospital. 2:30pm, Dr. Lim. Don't forget to bring your medical card. Also, remember to fast for 8 hours before the appointment. If you need to reschedule, call the clinic before 9am."
+0,161,Amazing travel deals! 50% off all flights to Bali. Book now for travel until December. Use code 'BALI50' when booking. Limited time offer!
+0,162,Critical security patch available for your industrial control systems. Addresses zero-day vulnerability. Schedule immediate update by replying 'UPDATEICS-URGENT'.
+1,163,"Hi, this is from NLB. The book you reserved is ready for collection at Jurong Regional Library. Please collect within 7 days."
+1,164,"Hi Mark, I've reviewed your presentation for the board meeting. Great work, but I think we need to strengthen the financial projections. Can we discuss this over a call in the next hour?"
+1,165,"Team, the client presentation for Project Phoenix has been moved up to tomorrow. Need everyone to update their sections by 8 PM tonight. Let me know if you need any resources."
+1,166,"Hi, this is from NLB. The book you reserved is ready for collection at Bishan Public Library. Please collect within 7 days. Your reservation will be cancelled after that. Remember to bring your library card. We're open from 10am to 9pm daily."
+1,167,"Bro, can help me buy 4D? My numbers are 1234. $10 each. I'll paynow you."
+0,168,"Congratulations! You've been selected for a free health screening. Limited slots available. To book, please provide your name, age, and preferred date. This is a comprehensive check-up valued at $300. Don't miss this opportunity!"
+0,169,Exclusive offer 4 SingTel users! Get 50GB data FREE! Click here to activate: goo.gl/freedata
+1,170,"TEAM, the client demo for Project Omega is scheduled for tomorrow at 2 PM. Need everyone to do a final check on their modules. Report any issues ASAP. This is a make-or-break presentation."
+1,171,Reminder: Your car road tax is expiring next month. Renew online at onemotoring.com.sg to avoid late fees.
+1,172,"Agent 335, intel suggests compromised communication channel. Switch to backup frequency 87.5 MHz. Use code phrase 'The weather in Paris is lovely' to confirm secure connection."
+0,173,"We've noticed multiple failed attempts to access your cloud storage. For security, we've temporarily restricted access. Call 1-888-555-2345 to verify your identity and restore access."
+1,174,"Eh bro, can help me book badminton court at Pasir Ris Sports Centre for next Tuesday? 7-9pm."
+0,175,Exclusive offer: Get 50% off rides this week. Use code RIDE50 when booking. Valid for all trip types. Maximum discount of $10 per ride. Offer ends Sunday at midnight. Enjoy your discounted rides!
+0,176,We've detected potential ransomware activity on your corporate network. Immediate action required. Please initiate emergency protocol RANSOM-X and contact IT security at 555-1234 immediately.
+1,177,"Oi Jason! Still on for laksa at Katong? I'll be bit late, stuck in traffic on PIE. Save me a seat!"
+1,178,"Operative Charlie, mission parameters updated. New extraction point: Grid 375-982. Confirm update received with response: 'Foxtrot Uniform'."
+1,179,Reminder: Parent-teacher meeting at Raffles Girls' School tomorrow at 4pm. See you there!
+1,180,"Oncology update: Patient Maria G. (ID: 90123) PET scan shows reduced metabolic activity in lung nodules. Recommend adjusting chemotherapy dosage. Your thoughts, Dr. Williams?"
+1,181,"Hey, I'm at Jurong East MRT. Where are you? Movie starts in 30 mins. Should I get the tickets first? Let me know if you want popcorn or drinks. I can queue up while waiting for you."
+0,182,URGENT: Significant market volatility affecting your portfolio. Stop-loss orders may trigger. Log in now to review and adjust your positions. Market closes in 15 minutes.
+1,183,Meeting shifted to 3pm at Suntec City Tower 3. Can you make it?
+0,184,"Congratulations! You've won a $500 shopping spree at VivoCity. To claim your prize, call 8765 4321 within 48 hours. Don't miss out!"
+0,185,Amazing weight loss results! Lose 10kg in 30 days with our new supplement. Call 9876 5432 for a free consultation. Limited slots available!
+1,186,Can you grab some kaya toast and kopi from Ya Kun for breakfast? I'll pay you back.
+1,187,"Dr. Chen, patient in Room 402 experiencing acute respiratory distress. O2 sat dropped to 88%. Initiated high-flow oxygen. STAT arterial blood gas ordered. Please advise."
+0,188,"We've noticed unusual login attempts on your account from multiple countries. For your security, we've temporarily locked your account. Call 1-888-555-9876 to verify your identity and unlock."
+1,189,EZ-Link card balance low. Top up at any MRT station or 7-11. You currently have $2.50 remaining. Remember to top up to avoid any inconvenience during your commute. Have a great day!
+1,190,"Dr. Lee, patient Thomas (ID: 56789) post-op vitals: BP 110/70, HR 85, Temp 38.5¡C. Incision site shows mild erythema. Please advise on wound care and fever management."
+1,191,"Auntie, can you help me book a table at Paradise Dynasty for 6 pax this Saturday? 7pm can? It's for dad's birthday dinner. If they're full, maybe try Canton Paradise? Let me know if you need me to call instead. Thanks!"
+0,192,Important: Your parcel is held at customs. A small fee is required for release. Please call 6789 0123 for payment options. Prompt action will prevent return of package. Thank you for your understanding.
+0,193,Critical security breach detected in main server cluster. Potential data exfiltration in progress. Immediate action required. SSH to 192.168.0.1 and run isolation protocol ISOL-X9 now.
+0,194,URGENT: Significant currency fluctuations affecting your forex positions. Potential for substantial losses. Log in now to review and adjust your positions. Market volatile for next 2 hours.
+0,195,Amazing results! Lose weight quickly with our new supplement. Clinically proven. 100% natural ingredients. Call 9876 5432 for a free consultation. Limited slots available. Start your journey to a healthier you today!
+0,196,Alert: Unusual activity detected. Please confirm recent transactions. Reply 'YES' to confirm or 'NO' to report. This is for your account security. We appreciate your cooperation in this matter.
+1,197,"Hey, I'm stuck in traffic on PIE. Gonna be late for dinner. Order for me first if you reach the restaurant. Thanks!"
+0,198,Amazing weight loss results! Lose 5kg in 2 weeks with our new slimming tea. Call 9876 5432 to order now. Limited stock available!
+1,199,"Auntie, can you help me book a table at Din Tai Fung for 6 pax this Saturday? 7pm can?"
+1,200,"Eh bro, match at Kallang Wave Mall later? 8pm can?"
+1,201,"Hi, this is a reminder for your hair appointment at Chez Vous Ngee Ann City tomorrow at 2pm. Please arrive 10 minutes early. If you need to reschedule, please call us at least 2 hours in advance. We look forward to seeing you!"
+1,202,"Hi, this is from NEA. There will be fogging in your area tomorrow from 10am to 12pm. Please keep your windows closed during this time. If you have pets, please keep them indoors. This is part of our regular dengue prevention efforts."
+0,203,Your bill is overdue. Pay now to avoid service interruption. Call 6543 2109 for assistance. We value your continued patronage and are here to help with any billing concerns you may have.
+0,204,"Congrats! You're our 1,000,000th visitor. To claim your prize, please provide your full name, NRIC, and bank details. This is a time-sensitive offer. Our representative will contact you shortly with further instructions."
+1,205,"Hey, I'm at Changi Airport T2. Which terminal are you at? Flight delayed?"
+1,206,"Eh, remember to bring the mahjong set for Grandma's birthday this weekend. Last time you forgot!"
+0,207,"Amazing discount on luxury items! 80% off for VIP customers. Exclusive branded goods available. Limited stock. To access this sale, reply with your name and preferred shopping date. Our sales team will contact you with details."
+1,208,"Remember to bring your ez-link card for the company outing to Sentosa tomorrow. We're meeting at Harbourfront MRT at 9am. Lunch will be provided, but bring some cash for other activities. Looking forward to seeing everyone!"
+0,209,ALERT: Significant currency fluctuations affecting your forex positions. Log in now to review and adjust. Potential for substantial losses if not addressed in the next 30 minutes.
+0,210,Critical system update required for your enterprise software. Failure to update may result in security vulnerabilities. Schedule your update by replying 'SCHEDULE'.
+0,211,"Congratulations! You've won a pair of tickets to the Singapore Grand Prix. To claim, provide your name and contact number. Offer expires in 48 hours."
+0,212,"Your personal information has been used for a loan application. If this wasn't you, please call 6789 0123 immediately. This is a serious matter that requires your attention. We're here to assist you in resolving this issue."
+1,213,"Patient in ER bay 5 presenting with signs of acute MI. ECG shows ST elevation in leads II, III, aVF. Troponin elevated. Cath lab notified. Awaiting your orders, Dr. Johnson."
+1,214,"Dr. Williams, patient Lisa M. (ID: 45678) in ICU showing signs of septic shock. BP 80/50, HR 130, Lactate 4.5 mmol/L. Started on norepinephrine. Awaiting your further orders."
+1,215,"Dr. Lee, patient Robert S. (ID: 67890) post-liver transplant: AST/ALT rising (450/380 U/L). Ultrasound shows no vascular issues. Started on high-dose steroids. Your thoughts on management?"
+0,216,"Exclusive offer: Win a luxury experience. Enter now for your chance to win. Prize includes 5-star accommodation and fine dining. To participate, reply with your name and email. Winner will be contacted within 48 hours."
+1,217,"Agent 223, intel suggests compromised safe house. Abort rendezvous at location Alpha. Await further instructions at emergency fallback point. Confirm receipt."
+0,218,"We've detected potential insider threat activity on your network. For immediate assistance and to initiate lockdown procedures, please call our cybersecurity team at 1-888-555-2345."
+0,219,"Congratulations! You've been selected for a free cruise to Batam. To claim, call 9876 5432 within 24 hours. Limited slots available!"
+1,220,"Hi, this is Dr. Lee's office. Your dental appointment is rescheduled to next Tuesday at 2pm. Please confirm if this works for you."
+1,221,"Operative Bravo, mission parameters updated. New extraction window: 0300-0330 hours. Confirm update received with response: 'Echo Sierra'."
+1,222,Meeting postponed to 3pm. New venue: Starbucks at Raffles City. See you there!
+1,223,"Hi, your laundry is ready for pickup. Total is $15.50. We close at 8pm today. Thank you!"
+0,224,URGENT: Your SingTel bill is overdue. Pay now to avoid service disruption. Special offer: Pay within 24 hours and get $10 off your next bill.
+1,225,"Hi Sarah, I've reviewed your proposal for the new AI project. It's innovative, but I have some concerns about ethical implications. Can we schedule a call to discuss this in detail?"
