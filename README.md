@@ -39,4 +39,14 @@ convolution+relu+maxpooling and uses image augmentation and random dropout to pr
   
 - Energy_usage_multivariant_timeseries repository contains LSTM based multivariant timeseries prediction for energy usage of Appliances in [Wh]
 
-- Sine_wave_timseries models sinewave timeseries 
+- Sine_wave_timseries models sinewave timeseries
+
+- MNIST_imag_gen   Image generation based on GANs.
+
+- Autoencoders  Dimentionality reduction using Autoencoders and Image generation with VAEs.
+
+- OpenAI_API_finetuning Tuning LLM for spam email classification.
+
+- PDF_Chatbot Using Langchain framefork for developing PDF chatbot.
+
+- Postman_APIrequest Contains some Postman requests to local LLM APIs
