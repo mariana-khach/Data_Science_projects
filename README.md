@@ -50,3 +50,4 @@ convolution+relu+maxpooling and uses image augmentation and random dropout to pr
 - PDF_Chatbot Using Langchain framefork for developing PDF chatbot.
 
 - Postman_APIrequest Contains some Postman requests to local LLM APIs
+- In Fraud_AntiMoneyLaundering_PaySim1 project I have used PySpark to carry fraud detection analysis for large scale data.
